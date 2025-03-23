@@ -1,2 +1,1 @@
-# CandCPP
-C &amp; C++
+# C & C++
