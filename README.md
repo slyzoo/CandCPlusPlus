@@ -3,8 +3,8 @@
 # Table of Contents
 
 0. Installation
-1. hello world
-2. comments
+1. comments
+2. hello world
 
 ## compilation
 3. compile from command line
