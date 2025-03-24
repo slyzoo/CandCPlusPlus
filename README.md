@@ -2,8 +2,7 @@
 
 # Table of Contents
 
-0. Installation 
-- installation is covered in this readme
+0. [Installation](#installation)
 1. comments
 2. hello world
 
