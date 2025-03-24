@@ -1,8 +1,9 @@
-# C & C++
+# C & C++ for windows
 
 # Table of Contents
 
-0. Installation
+0. Installation 
+- installation is covered in this readme
 1. comments
 2. hello world
 
@@ -117,3 +118,48 @@
 98. dynamic libraries
 
 99. multithreading
+
+
+# Installation
+
+## Downloads
+Download the [C/C++ compiler](https://www.msys2.org/) and [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Installing Msys2
+Run the program follow the wizard to install it. After that copy and paste this command into the terminal.
+```
+pacman -S mingw-w64-ucrt-x86_64-gcc
+```
+afterwards check to see if it downloaded correctly using this command.
+```
+gcc --version
+```
+If it works you'll see `gcc.exe (Rev2, Built by MSYS2 project) 13.2.0`
+
+> [!TIP]
+> Version numbers will vary
+
+## Installing Visual Studio Code
+Run the Visual Studio Code.exe.\
+when it asks for `select additional tasks` check all the boxes.
+
+- [x] Create a desktop icon
+- [x] Add "Open with Code action to Windows Explorer file context menu
+- [x] Add "Open with Code action to Windows Explorer directory context menu
+- [x] Register Code as an editor for supported file types
+- [x] Add to PATH
+
+Finish the installation.
+
+### Addons
+Download the Visual Studio Code addons [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack).
+It comes with 
+- Debugger
+- Intellisense
+- Cmake
+- Themes
+
+> [!NOTE]
+> This next part is optional, but is recommended to new users.
+
+Download [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) to run your code faster and easier
