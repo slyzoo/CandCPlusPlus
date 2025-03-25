@@ -69,14 +69,14 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > This tutorial does NOT cover algorithms or how to write clean code
 1. comments
 1. hello world
-1. data types
-1. escape sequences
 1. variables
-1. variable scope
+1. data types
+1. constants
+1. escape sequences
 1. format specifiers
+1. variable scope
 1. type conversion
 1. namespaces
-1. constants
 1. typedefs
 1. arithmatic
 1. user input
@@ -89,9 +89,7 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. switch cases
 1. temperature conversion
 1. console calculator
-1. and 
-1. or 
-1. not
+1. logical operators
 1. functions
 1. user defined functions
 1. arguments

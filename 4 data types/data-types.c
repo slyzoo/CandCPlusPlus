@@ -11,10 +11,7 @@ int main(){
   char grade = 'A';
 
 // a bunch of letters together, also called an array of letters
-  char name[] = "lilith"
-
-// True or False
-  bool student = true;
+  char name[] = "lilith";
 
 return 0;
 }
