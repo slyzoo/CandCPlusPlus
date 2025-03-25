@@ -68,89 +68,89 @@ press the triangle in the corner of your screen, and it compiles and runs.
 > [!WARNING]
 > This tutorial does NOT cover algorithms or how to write clean code
 1. comments
-2. hello world
-3. data types
-4. escape sequences
-5. variables
-6. variable scope
-7. format specifiers
-8. type conversion
-9. namespaces
-12. constants
-13. typedefs
-14. arithmatic
-15. user input
-16. beep
-17. math functions
-18. circumfrence calculator
-19. area calculator
-20. hypotenuse calculator
-21. if statments
-22. switch cases
-23. temperature conversion
-24. console calculator
-25. and 
-26. or 
-27. not
-28. functions
-29. user defined functions
-30. arguments
-31. return
-32. ternary
-33. function prototypes
-34. functions with variables
-35. function templates
-36. string functions
-37. for loops
-38. while loops
-39. do while loops
-40. for each loop
-41. nested loops
-42. break and continue
-43. arrays
-44. size of
-45. rows and columns
-46. iterate over an array
-47. printing arrays with loops
-48. 2d arrays
-49. search array for element
-50. arrays with strings
-51. swapping 2 varibles values
-52. sorting arrays
-53. pass array to function
-54. fill function
-55. fill an array with user input
-56. multidimensional arrays
-57. structs
-58. arrays of structs
-59. pass structs as arguments
-60. enums
-61. random numbers
-62. random number generator
-63. random event generator
-64. min max generator
-65. number guessing game
-66. quiz game
-67. bitwise operators
-68. memory addresses
-69. pass by value Vs pass by reference
-70. constant params
-81. pointers
-82. null pointers
-83. dynamic memory
-84. recursion
-85. writing files
-86. reading files
-87. tic tac toe (noughts and crosses)
-88. rock paper scissors game
-89. banking practice system
-90. credit card vailidator
-91. Object Orented Programming
-92. contstructors
-93. constructors overloading
-94. getters and setters
-95. inheritance
-96. polymorphism
-97. static libraries
-98. dynamic libraries
-99. multithreading
+1. hello world
+1. data types
+1. escape sequences
+1. variables
+1. variable scope
+1. format specifiers
+1. type conversion
+1. namespaces
+1. constants
+1. typedefs
+1. arithmatic
+1. user input
+1. beep
+1. math functions
+1. circumfrence calculator
+1. area calculator
+1. hypotenuse calculator
+1. if statments
+1. switch cases
+1. temperature conversion
+1. console calculator
+1. and 
+1. or 
+1. not
+1. functions
+1. user defined functions
+1. arguments
+1. return
+1. ternary
+1. function prototypes
+1. functions with variables
+1. function templates
+1. string functions
+1. for loops
+1. while loops
+1. do while loops
+1. for each loop
+1. nested loops
+1. break and continue
+1. arrays
+1. size of
+1. rows and columns
+1. iterate over an array
+1. printing arrays with loops
+1. 2d arrays
+1. search array for element
+1. arrays with strings
+1. swapping 2 varibles values
+1. sorting arrays
+1. pass array to function
+1. fill function
+1. fill an array with user input
+1. multidimensional arrays
+1. structs
+1. arrays of structs
+1. pass structs as arguments
+1. enums
+1. random numbers
+1. random number generator
+1. random event generator
+1. min max generator
+1. number guessing game
+1. quiz game
+1. bitwise operators
+1. memory addresses
+1. pass by value Vs pass by reference
+1. constant params
+1. pointers
+1. null pointers
+1. dynamic memory
+1. recursion
+1. writing files
+1. reading files
+1. tic tac toe (noughts and crosses)
+1. rock paper scissors game
+1. banking practice system
+1. credit card vailidator
+1. Object Orented Programming
+1. contstructors
+1. constructors overloading
+1. getters and setters
+1. inheritance
+1. polymorphism
+1. static libraries
+1. dynamic libraries
+1. multithreading
