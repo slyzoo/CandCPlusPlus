@@ -7,8 +7,8 @@
 2. hello world
 
 ## compilation
-3. compile from command line
-4. compile from code runner
+3. [compile from command line](#compiling-from-command-line)
+4. [compile from code runner](#compiling-from-code-runner)
 
 ## data types
 5. data types
@@ -162,3 +162,22 @@ It comes with
 > This next part is optional, but is recommended to new users.
 
 Download [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) to run your code faster and easier
+
+## Compiling
+
+### compiling from Command Line
+Copy and paste this command to compile
+```
+gcc hello-world.c
+```
+> [!NOTE]
+> Spaces do not work with file names when compiling from command line.\
+> File names will vary
+
+Then to run the file type the name of the .exe you made
+```
+a.exe
+```
+
+### compiling from Code Runner
+press the triangle in the corner of your screen, and it compiles and runs
