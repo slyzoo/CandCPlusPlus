@@ -11,7 +11,7 @@ int main(){
   std::cout << "\"" << "test" << '\n';
 
   // single quotes | \'
-  std::cout << "\'t'" << "test" << '\n';
+  std::cout << "\'t" << "test" << '\n';
 
   // back slash | //
   std::cout << "\\" << "test" << '\n';
