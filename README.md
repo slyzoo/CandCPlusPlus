@@ -85,12 +85,11 @@ press the triangle in the corner of your screen, and it compiles and runs.
 1. circumfrence calculator
 1. area calculator
 1. hypotenuse calculator
-1. if statments
+1. if statements
 1. switch cases
 1. temperature conversion
 1. console calculator
 1. logical operators
-1. functions
 1. user defined functions
 1. arguments
 1. return
