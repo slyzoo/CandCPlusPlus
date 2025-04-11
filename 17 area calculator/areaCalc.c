@@ -2,6 +2,8 @@
 
 int main(){
 
+// Area = Length * Width
+
   
 
 return 0;
